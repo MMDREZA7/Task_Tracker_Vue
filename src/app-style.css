@@ -2,6 +2,7 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  user-select: none;
 }
 
 body {
@@ -26,7 +27,7 @@ body {
   padding: 10px 20px;
   margin: 5px;
   border-radius: 5px;
-  cursor: po;
+  cursor: pointer;
   text-decoration: none;
   font-size: 15px;
   font-family: inherit;
