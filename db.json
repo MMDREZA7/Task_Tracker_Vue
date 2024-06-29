@@ -1,3 +1,16 @@
 {
-  "tasks": []
+  "tasks": [
+    {
+      "id": "9e98",
+      "text": "Shopping",
+      "day": "May 3rd at 9:30 am",
+      "reminder": true
+    },
+    {
+      "id": "f1b7",
+      "text": "Coding",
+      "day": "Every Day at 8:00am to 5:00pm",
+      "reminder": true
+    }
+  ]
 }
