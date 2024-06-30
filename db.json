@@ -1,15 +1,39 @@
 {
   "tasks": [
     {
-      "id": "9e98",
+      "id": "1",
       "text": "Shopping",
       "day": "May 3rd at 9:30 am",
       "reminder": true
     },
     {
-      "id": "f1b7",
+      "id": "2",
       "text": "Coding",
       "day": "Every Day at 8:00am to 5:00pm",
+      "reminder": true
+    },
+    {
+      "id": "3",
+      "text": "Meet with Gangs",
+      "day": "July 11th at 10:45pm ",
+      "reminder": false
+    },
+    {
+      "id": "4",
+      "text": "War in gove street",
+      "day": "june 1st at 2:00pm",
+      "reminder": true
+    },
+    {
+      "id": "ba3b",
+      "text": "Hello",
+      "day": "world",
+      "reminder": false
+    },
+    {
+      "id": "eed2",
+      "text": "ATHAN",
+      "day": "May",
       "reminder": true
     }
   ]

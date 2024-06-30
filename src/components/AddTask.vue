@@ -43,8 +43,6 @@ export default {
     onSubmit(e) {
       e.preventDefault();
 
-      console.log(e);
-
       if (!this.text) {
         alert("Please Add a task");
         return;

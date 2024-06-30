@@ -26,7 +26,8 @@ export default {
 }
 
 .task {
-  background: #f4f4f4;
+  background: #ddd;
+  border-radius: 5px;
   margin: 5px;
   padding: 10px 20px;
   cursor: pointer;

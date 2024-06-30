@@ -1,6 +1,6 @@
 <template>
-  <a href="/">◀ Go Home</a>
-  <h1>About</h1>
+  <h3>Version 1.0.0</h3>
+  <router-link to="/" class="link">Go Back</router-link>
 </template>
 
 <script>
@@ -10,15 +10,15 @@ export default {
 </script>
 
 <style>
-a {
+.link {
   text-decoration: none;
   color: #444;
   font-size: 1.2rem;
-  font-weight: 600;
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-weight: 100;
 }
 
-a:hover {
+.link:hover {
   color: #000;
+  font-weight: 400;
 }
 </style>
